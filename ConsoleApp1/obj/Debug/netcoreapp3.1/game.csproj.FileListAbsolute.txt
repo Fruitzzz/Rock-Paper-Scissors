@@ -1,0 +1,12 @@
+D:\Study\Codding\C#\gamr\ConsoleApp1\bin\Debug\netcoreapp3.1\game.exe
+D:\Study\Codding\C#\gamr\ConsoleApp1\bin\Debug\netcoreapp3.1\game.deps.json
+D:\Study\Codding\C#\gamr\ConsoleApp1\bin\Debug\netcoreapp3.1\game.runtimeconfig.json
+D:\Study\Codding\C#\gamr\ConsoleApp1\bin\Debug\netcoreapp3.1\game.runtimeconfig.dev.json
+D:\Study\Codding\C#\gamr\ConsoleApp1\bin\Debug\netcoreapp3.1\game.dll
+D:\Study\Codding\C#\gamr\ConsoleApp1\bin\Debug\netcoreapp3.1\game.pdb
+D:\Study\Codding\C#\gamr\ConsoleApp1\obj\Debug\netcoreapp3.1\game.AssemblyInfoInputs.cache
+D:\Study\Codding\C#\gamr\ConsoleApp1\obj\Debug\netcoreapp3.1\game.AssemblyInfo.cs
+D:\Study\Codding\C#\gamr\ConsoleApp1\obj\Debug\netcoreapp3.1\game.csproj.CoreCompileInputs.cache
+D:\Study\Codding\C#\gamr\ConsoleApp1\obj\Debug\netcoreapp3.1\game.dll
+D:\Study\Codding\C#\gamr\ConsoleApp1\obj\Debug\netcoreapp3.1\game.pdb
+D:\Study\Codding\C#\gamr\ConsoleApp1\obj\Debug\netcoreapp3.1\game.genruntimeconfig.cache
