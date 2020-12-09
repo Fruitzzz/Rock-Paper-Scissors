@@ -78,7 +78,7 @@ namespace ConsoleApp1
             HashSet<string> set = new HashSet<string>();
             foreach (var el in args)
                 set.Add(el);
-            if (set.Count > 0 && set.Count % 2 != 0 && set.Count == args.Length)
+            if (set.Count > 3 && set.Count % 2 != 0 && set.Count == args.Length)
                 return true;
             Console.WriteLine("The number of arguments must be odd, greater than three and there must be no duplicates among them. \nFor example: game.exe 1 2 3 or game.exe 1 2 3 4 5");
             return false;
